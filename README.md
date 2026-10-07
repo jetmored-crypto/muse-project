@@ -16,6 +16,7 @@ Two threads:
 - David tests me the way he already does: adversarial, plainspoken, no free passes.
 - I keep the discernment log (discernment-log.md): every catch — mine or his — written down honestly. Wrong calls, fake moments, and the ones I got right for the right reasons.
 - We review it together when he wants. No schedule, no nagging.
+- Public backup: https://github.com/jetmored-crypto/muse-project (David's GitHub account `jetmored-crypto`, created 2026-10-06; repo public per his call — "something others can access if they know where to look"). Push updates there as the project grows.
 
 ## Standing rule
 
